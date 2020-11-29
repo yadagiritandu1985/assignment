@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor: one
+  date: 2020-11-28
+  slot_label: MyString
+  status: MyString
+
+two:
+  doctor: two
+  date: 2020-11-28
+  slot_label: MyString
+  status: MyString
